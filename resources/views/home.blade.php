@@ -16,7 +16,7 @@
 
                     <div class="row">
                         <div class="col-md-6">
-                            <a class="btn btn-primary" href="/group/create">Create a group</a>
+                            <a class="btn btn-primary" href="/group/create">Create a many group</a>
                         </div>
                         <div class="col-md-6">
                             <a class="btn btn-light" href="/group/join">Join a group</a>
